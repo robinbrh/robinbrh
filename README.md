@@ -1,4 +1,4 @@
-#Hi there, I'm Robin - aka Yiqu ✌️
+# Hi there, I'm Robin - aka Yiqu ✌️
 
 ## I'm a Developer and Designer
 - 👨‍🎓 I'm in training as an IT specialist for application development in a German company.
@@ -15,8 +15,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26px" style="padding-right:10px;"/>
-<img align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;"/>
-<img align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="26px" style="padding-right:10px;"/>
-<img align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="26px" style="padding-right:10px;"/>
-<img align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="26px" style="padding-right:10px;"/>
+<img align="left" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;"/>
+<img align="left" alt="Unreal Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="26px" style="padding-right:10px;"/>
+<img align="left" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="26px" style="padding-right:10px;"/>
 
