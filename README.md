@@ -5,7 +5,6 @@
 - 🔎 In addition to my training I'm currently learning C++ and the power of Unreal Engine 5.
 - 📅 2022 Goals: Learning much more about Game Development and Web Design / Development.
 - 👯 I’m looking to collaborate with other Game Developers to create a Game together.
-- ⚡ Fun fact: I am known for starting too many projects.
 
 ## Languages and Tools:
 
