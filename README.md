@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/yiqu"><img src="https://api.daily.dev/devcards/v2/QU0ry129IbiYetLnEnwMI.png?type=default&r=uz2" width="356" alt="Robin's Dev Card"/></a>
-
 <h2 align="left">Badges</h2>
 
 ###
