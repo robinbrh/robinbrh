@@ -9,11 +9,6 @@
 </a>  
 </div>
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=robinbrh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />  
-
-<br>
-
 ## Holopins
 
 [![An image of @yiquu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yiquu)](https://holopin.io/@yiquu)
