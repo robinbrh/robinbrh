@@ -8,6 +8,6 @@
 </a>  
 </div>
 
-## Badges
+## Holopins
 
 [![An image of @yiquu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yiquu)](https://holopin.io/@yiquu)
